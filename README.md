@@ -43,7 +43,7 @@ Microservices • Design Patterns • SOLID • Tests unitaires
 
 ## 💼 Expériences & Projets
 
-- **Développeuse informatique** – *RATP Connect* (7 mois, alternance)
+- **Développeuse informatique** – *RATP Connect* (9 mois, alternance)
 - **Projet Twitter IA** – Hackathon IPSSI 2025
 - **Projet Open Data Accidents**  
   Analyse des accidents de la route en France (Flask, Cassandra, PySpark, Power BI, React)
