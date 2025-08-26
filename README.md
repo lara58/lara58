@@ -8,49 +8,55 @@
 
 ---
 
-## 👩‍💼 Profil
-
-Passionnée d’innovation technologique, je conçois des solutions web & data alignées sur les enjeux métiers. Rigoureuse, curieuse et orientée résultats, je souhaite rejoindre une équipe ambitieuse pour contribuer à des projets stimulants en développement logiciel, data ou intelligence artificielle.
-
----
-
-<div align="center">
-
-📢 <b>Actuellement en alternance chez RATP Connect — Disponible pour un CDI/CDD en développement web, data ou IA dès septembre 2025</b>
-
-</div>
-
----
-
-## 🚀 Compétences clés
-
-| **Langages**   | Python • Java • JavaScript • PHP • SQL |
-|----------------|----------------------------------------|
-| **Frameworks** | Node.js • Express.js • Laravel         |
-| **Databases**  | MySQL • MongoDB                        |
-| **Frontend**   | React • HTML • CSS • Bootstrap         |
-| **Backend**    | Laravel • Flask                        |
-| **Data**       | Pandas • NumPy • Matplotlib • Seaborn • Power BI • Salesforce Analytics |
-| **DevOps/Cloud** | Docker • Kubernetes • GitHub • GitLab |
-| **Méthodo**    | Microservices • Design Patterns • SOLID • Tests unitaires |
+```js
+// 👩‍💻 AboutMe.js
+const Narimane = {
+  role: "Software & Data Developer",
+  location: "Paris, France",
+  currently: "Alternance @ RATP Connect",
+  openTo: "CDI/CDD (Web, Data, IA) - Sept 2025",
+  mindset: ["innovation", "curiosité", "rigueur", "team player"],
+  lookingFor: "Équipe ambitieuse & projets challengers"
+};
+```
 
 ---
 
-## 💼 Expériences & Projets
+## 🛠️ Skills
 
-- **Développeuse informatique** — *RATP Connect* (Alternance, 9 mois)
-- **Hackathon Twitter IA** — IPSSI 2025
-- **Open Data Accidents** — Analyse des accidents routiers en France (Flask, Cassandra, PySpark, Power BI, React)
-- **Job Scraping France Travail** — Scraping d’offres d’emploi (BeautifulSoup, Selenium, Scrapy), analyse de performances, export CSV
-- **Fil Rouge IPSSI** — Application microservices (Node.js, React, Docker, Kubernetes) : gestion posts, commentaires, modération, événements
-- **Compétitions sportives Java** — Université de Lille
+```json
+{
+  "languages": ["Python", "Java", "JavaScript", "PHP", "SQL"],
+  "frameworks": ["React", "Node.js", "Express.js", "Laravel", "Flask"],
+  "databases": ["MySQL", "MongoDB", "Cassandra"],
+  "data_ia": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "PySpark", "Power BI", "Salesforce Analytics"],
+  "frontend": ["HTML", "CSS", "Bootstrap"],
+  "devops_cloud": ["Docker", "Kubernetes", "GitHub", "GitLab"],
+  "methodologies": ["Microservices", "Design Patterns", "SOLID", "CI/CD", "Unit Tests"]
+}
+```
+
+---
+
+## 👩‍💻 Projects
+
+```markdown
+- [x] RATP Connect — Développeuse informatique (Alternance, 9 mois)
+- [x] Hackathon Twitter IA — IPSSI 2025
+- [x] Open Data Accidents — Analyse accidentologie France (Flask, Cassandra, PySpark, Power BI, React)
+- [x] Job Scraping France Travail — Scraping offres, analyse data & export CSV (BeautifulSoup, Selenium, Scrapy)
+- [x] Fil Rouge IPSSI — Plateforme microservices (Node.js, React, Docker, Kubernetes) : posts, commentaires, modération, events
+- [x] Compétitions sportives Java — Université de Lille
+```
 
 ---
 
 ## 🎓 Formation
 
-- **Mastère Dev Big Data & IA** — IPSSI, Paris (2024–2026)
-- **Licence 3 Informatique** — Université de Lille (2019–2023)
+```yaml
+- Mastère Dev Big Data & IA: IPSSI, Paris (2024–2026)
+- Licence 3 Informatique: Université de Lille (2019–2023)
+```
 
 ---
 
@@ -64,3 +70,13 @@ Passionnée d’innovation technologique, je conçois des solutions web & data a
 </div>
 
 ---
+
+<details>
+<summary>✨ Extras</summary>
+
+```txt
++ Passion pour l’innovation, la veille techno et les challenges
++ Soft skills : adaptabilité, communication, autonomie, esprit d’équipe
++ Anglais professionnel
+```
+</details>
