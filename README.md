@@ -13,7 +13,7 @@
 const Narimane = {
   role: "Software & Data Developer",
   location: "Paris, France",
-  currently: "Alternance @ RATP Connect",
+  currently: "Alternance @ RATP Connect (depuis sept. 2024, 1 an)",
   openTo: "CDI/CDD (Web, Data, IA) - Sept 2025",
   mindset: ["innovation", "curiosité", "rigueur", "team player"],
   lookingFor: "Équipe ambitieuse & projets challengers"
@@ -41,7 +41,7 @@ const Narimane = {
 ## 👩‍💻 Projects
 
 ```markdown
-- [x] RATP Connect — Développeuse informatique (Alternance, 9 mois)
+- [x] RATP Connect — Développeuse informatique (Alternance, 1 an, sept. 2024 - sept. 2025)
 - [x] Hackathon Twitter IA — IPSSI 2025
 - [x] Open Data Accidents — Analyse accidentologie France (Flask, Cassandra, PySpark, Power BI, React)
 - [x] Job Scraping France Travail — Scraping offres, analyse data & export CSV (BeautifulSoup, Selenium, Scrapy)
