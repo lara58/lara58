@@ -1,4 +1,7 @@
-# Narimane TAHIR
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/Header-3.gif)](https://www.linkedin.com/in/ton-profil)
+
+<h1 align="center">Hi 👋, I'm Narimane TAHIR</h1>
+<h3 align="center">Software & Data Developer | Passionnée par le Big Data, l'IA et les projets challengers</h3>
 
 <div align="right">
   <img src="https://img.shields.io/badge/Paris,%20France-%230077B5?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -6,61 +9,76 @@
   <img src="https://img.shields.io/badge/Mast%C3%A8re%20Dev%20Big%20Data%20%26%20IA-IPSSI-%231c1c1c?style=flat-square&logo=graduation-cap&logoColor=white" alt="IPSSI"/>
 </div>
 
----
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" />
 
-```js
-// 👩‍💻 AboutMe.js
-const Narimane = {
-  role: "Software & Data Developer",
-  location: "Paris, France",
-  currently: "Alternance @ RATP Connect (depuis sept. 2024, 1 an)",
-  openTo: "CDI/CDD (Web, Data, IA) - Sept 2025",
-  mindset: ["innovation", "curiosité", "rigueur", "team player"],
-  lookingFor: "Équipe ambitieuse & projets challengers"
-};
-```
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lara58&label=Profile%20views&color=0e75b6&style=flat" alt="lara58" />
+</p>
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/ton-profil" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" />
+  </a>
+  <a href="mailto:narimanethr@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" />
+  </a>
+</p>
 
-## 🛠️ Skills
-
-```json
-{
-  "languages": ["Python", "Java", "JavaScript", "PHP", "SQL"],
-  "frameworks": ["React", "Node.js", "Express.js", "Laravel", "Flask"],
-  "databases": ["MySQL", "MongoDB", "Cassandra"],
-  "data_ia": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "PySpark", "Power BI", "Salesforce Analytics"],
-  "frontend": ["HTML", "CSS", "Bootstrap"],
-  "devops_cloud": ["Docker", "Kubernetes", "GitHub", "GitLab"],
-  "methodologies": ["Microservices", "Design Patterns", "SOLID", "CI/CD", "Unit Tests"]
-}
-```
+- 🌱 I’m currently in a work-study program at **RATP Connect (2024-2025)**  
+- 🎯 Open to CDI/CDD (Web, Data, IA) opportunities from September 2025  
+- 🧠 I love **innovation, curiosité, rigueur** & working as a **team player**
+- 👀 Looking for: **Équipe ambitieuse & projets challengers**
 
 ---
 
-## 👩‍💻 Projects
+### 🛠️ Skills
 
-```markdown
-- [x] RATP Connect — Développeuse informatique (Alternance, 1 an, sept. 2024 - sept. 2025)
-- [x] Hackathon Twitter IA — IPSSI 2025
-- [x] Open Data Accidents — Analyse accidentologie France (Flask, Cassandra, PySpark, Power BI, React)
-- [x] Job Scraping France Travail — Scraping offres, analyse data & export CSV (BeautifulSoup, Selenium, Scrapy)
-- [x] Fil Rouge IPSSI — Plateforme microservices (Node.js, React, Docker, Kubernetes) : posts, commentaires, modération, events
-- [x] Compétitions sportives Java — Université de Lille
-```
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</p>
+
+**Data & IA :** Pandas, NumPy, Matplotlib, Seaborn, PySpark, Power BI, Salesforce Analytics  
+**Méthodologies :** Microservices, Design Patterns, SOLID, CI/CD, Unit Tests
 
 ---
 
-## 🎓 Formation
+### 👩‍💻 Projects
 
-```yaml
+- **RATP Connect** — Développeuse informatique (Alternance, 1 an, sept. 2024 - sept. 2025)
+- **Hackathon Twitter IA** — IPSSI 2025
+- **Open Data Accidents** — Analyse accidentologie France (Flask, Cassandra, PySpark, Power BI, React)
+- **Job Scraping France Travail** — Scraping offres, analyse data & export CSV (BeautifulSoup, Selenium, Scrapy)
+- **Fil Rouge IPSSI** — Plateforme microservices (Node.js, React, Docker, Kubernetes) : posts, commentaires, modération, events
+- **Compétitions sportives Java** — Université de Lille
+
+---
+
+### 🎓 Formation
+
 - Mastère Dev Big Data & IA: IPSSI, Paris (2024–2026)
 - Licence 3 Informatique: Université de Lille (2019–2023)
-```
 
 ---
 
-## 📬 Contact
+### 📫 How to reach me
 
 <div align="center">
 
@@ -68,15 +86,3 @@ const Narimane = {
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narimanethr@gmail.com)
 
 </div>
-
----
-
-<details>
-<summary>✨ Extras</summary>
-
-```txt
-+ Passion pour l’innovation, la veille techno et les challenges
-+ Soft skills : adaptabilité, communication, autonomie, esprit d’équipe
-+ Anglais professionnel
-```
-</details>
