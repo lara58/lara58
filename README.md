@@ -5,7 +5,6 @@
 
 <div align="right">
   <img src="https://img.shields.io/badge/Paris,%20France-%230077B5?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Alternance%20RATP%20Connect-2024--2025-%2306B025?style=flat-square&logo=ratp&logoColor=white" alt="RATP"/>
   <img src="https://img.shields.io/badge/Mast%C3%A8re%20Dev%20Big%20Data%20%26%20IA-IPSSI-%231c1c1c?style=flat-square&logo=graduation-cap&logoColor=white" alt="IPSSI"/>
 </div>
 
