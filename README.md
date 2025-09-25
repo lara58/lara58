@@ -1,4 +1,4 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/Header-3.gif)](https://www.linkedin.com/in/ton-profil)
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/Header-3.gif)](https://www.linkedin.com/in/narimane-tahir-710515304/)
 
 <h1 align="center">Hi 👋, I'm Narimane TAHIR</h1>
 <h3 align="center">Software & Data Developer | Passionnée par le Big Data, l'IA et les projets challengers</h3>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  <a href="linkedin.com/in/narimane-tahir-710515304" target="blank">
+  <a href="https://www.linkedin.com/in/narimane-tahir-710515304/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" />
   </a>
   <a href="mailto:narimanethr@gmail.com" target="blank">
@@ -80,7 +80,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](linkedin.com/in/narimane-tahir-710515304)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narimane-tahir-710515304/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narimanethr@gmail.com)
 
 </div>
+https://www.linkedin.com/in/narimane-tahir-710515304/
