@@ -24,7 +24,7 @@
 </p>
 
 - 🌱 I’m currently in a work-study program at **RATP Connect (2024-2025)**  
-- 🎯 Open to CDI/CDD (Web, Data, IA) opportunities from September 2025  
+- 🎯 Open to CDI/CDD (Web, Data, IA) opportunities 
 - 🧠 I love **innovation, curiosité, rigueur** & working as a **team player**
 - 👀 Looking for: **Équipe ambitieuse & projets challengers**
 
