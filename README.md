@@ -23,7 +23,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently in a work-study program at **RATP Connect (2024-2025)**  
+- 🌱 I’m currently in a work-study program at **RATP Connect (2024-2026)**  
 - 🎯 Open to CDI/CDD (Web, Data, IA) opportunities 
 - 🧠 I love **innovation, curiosité, rigueur** & working as a **team player**
 - 👀 Looking for: **Équipe ambitieuse & projets challengers**
@@ -60,7 +60,7 @@
 
 ### 👩‍💻 Projects
 
-- **RATP Connect** — Développeuse informatique (Alternance, 1 an, sept. 2024 - sept. 2025)
+- **RATP Connect** — Développeuse informatique (Alternance, 1 an, sept. 2024 - févr.2026)
 - **Hackathon Twitter IA** — IPSSI 2025
 - **Open Data Accidents** — Analyse accidentologie France (Flask, Cassandra, PySpark, Power BI, React)
 - **Job Scraping France Travail** — Scraping offres, analyse data & export CSV (BeautifulSoup, Selenium, Scrapy)
